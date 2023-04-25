@@ -1,0 +1,145 @@
+body{ background-image: url('Metalbk.jpg');
+    background-size: cover; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+
+
+
+header{background-image: url('logo.jpg');
+    position: relative;
+    background-size: cover;
+    background-position-y: center;
+    width: 100%;
+    margin: 26px auto;
+    height: 235px;
+}
+
+
+
+
+.Titulo_principal{
+    background-color: rgba(245, 4, 4, 0.699);
+    position: absolute;
+    margin-left: 33%;
+    width: 584px;
+    height: 239px;
+    margin-top: -4px;
+    border-color: black;
+    border-style: solid;
+    border-bottom: 100px;
+    border-top: 100px;
+    border-radius: 10px;
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 20px;
+    letter-spacing: -1px;
+    word-spacing: 0.4px;
+    color: #000000;
+    font-weight: normal;
+    text-decoration: none;
+    text-align: center;
+    line-height: 91px;
+    font-style: italic;
+    font-variant: small-caps;
+    text-transform: uppercase}
+
+
+.SubtituloPR{position: absolute;
+    width: 600px;
+    margin-left: 33%;
+    margin-top: 156px;
+    border-color: black;
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 17px;
+    letter-spacing: 0px;
+    word-spacing: 0.4px;
+    color: #000000;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: italic;
+    font-variant: small-caps;
+    text-transform: uppercase;}
+
+.Subtitulo{position: absolute;
+    width: 600px;
+    margin-left: 10%;
+    margin-top: 50px;
+    border-color: black;
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 17px;
+    letter-spacing: 0px;
+    word-spacing: 0.4px;
+    color: #000000;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: italic;
+    font-variant: small-caps;
+    text-transform: uppercase;}
+
+.Badges{position: absolute;
+margin-top: 100px;}
+        
+    
+
+
+
+
+
+
+section{ position: relative;
+width: 100%;
+height: 1000px;
+background-color: rgba(92, 91, 91, 0.63);
+margin: 10px;}
+
+aside{
+    position: absolute;
+    background-color: azure;
+    background-position-x: center;
+    height: 1000px;
+    width: 437px;
+    margin-top: 1px;
+    border-radius: 30px;
+}
+
+#izq{background-image: url('motocross.jpg');
+    position: absolute;
+    left: 0px;
+}
+
+#der{background-image: url('harley-davidson-black-and-white.jpg');
+    position: absolute;
+    right: 0px;
+}
+
+
+
+
+.Lista_opciones{
+    background-color: rgba(255,255,255,0.5);
+    width: 350px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    border-width: 3px;
+    border-color: darkred;
+    border-style: solid;
+    border-radius: 20px;
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 15px;
+    letter-spacing: -0.6px;
+    word-spacing: -0.4px;
+    color: #000000;
+    font-weight: 400;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: uppercase;}
+
+
+
+
+
+
+
+
